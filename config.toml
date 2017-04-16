@@ -1,5 +1,5 @@
 baseurl = "https://marucolle.netlify.com"
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "まるコレ Maru's Collections"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
